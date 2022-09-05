@@ -1,2 +1,2 @@
-#This project mainly deals with shell redirections
+//This project mainly deals with shell redirections
 
