@@ -1,0 +1,17 @@
+total 60
+drwxr-xr-x 2 wolverine wolverine 4096 Sep  6 17:48 .
+drwxr-xr-x 6 wolverine wolverine 4096 Sep  6 16:30 ..
+-rwxr-xr-x 1 wolverine wolverine   32 Sep  6 16:31 0-hello_world
+-rwxr--r-- 1 wolverine wolverine   30 Sep  6 16:59 1-confused_smiley
+-rwxr--r-- 1 wolverine wolverine   28 Sep  6 17:05 2-hellofile
+-rwxr--r-- 1 wolverine wolverine   39 Sep  6 17:11 3-twofiles
+-rwxr--r-- 1 wolverine wolverine   35 Sep  6 17:14 4-lastlines
+-rwxr--r-- 1 wolverine wolverine   35 Sep  6 17:23 5-firstlines
+-rwxr--r-- 1 wolverine wolverine   40 Sep  6 17:31 6-third_line
+-rwxr--r-- 1 wolverine wolverine   99 Sep  6 17:43 7-file
+-rwxr--r-- 1 wolverine wolverine   36 Sep  6 17:48 8-cwd_state
+-rw-r--r-- 1 wolverine wolverine   12 Sep  6 17:36 *\\"Best\ School"\\*$?*****:)
+-rw-r--r-- 1 wolverine wolverine   12 Sep  6 17:44 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 wolverine wolverine 1466 Sep  6 17:26 iacta
+-rw-r--r-- 1 wolverine wolverine    0 Sep  6 17:48 ls_cwd_content
+-rw-r--r-- 1 wolverine wolverine   53 Sep  6 16:30 README.md
